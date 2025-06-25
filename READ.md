@@ -16,6 +16,7 @@ A responsive YouTube clone built using React and Tailwind CSS.
 ```bash
 npm install
 npm start
+``` 
 
 ## 👩‍💻 Author
 
